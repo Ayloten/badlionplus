@@ -3,7 +3,7 @@
 -Once private client gone public for a couple reasons I'll state below. <br>
 -Don't expect amazing and flawless coding practices. This is my first attempt at a (semi) custom base client and is only backed by about 4 months of Java. <br>
 -You're likely going to see code that makes no sense, spaghetti code, and an unreasonable amount of try{}catch(){} brackets to prevent crashes in some modules.<br>
--If anyone more competent than me would like to make a pull request, please do. I plan on actively updating the client so your work wouldn't go to waste.<br>
+-If anyone more competent than me would like to make a pull request, please do. ~~I plan on actively updating the client so your work wouldn't go to waste.~~ nvm<br>
 
 ### How to use:
 
@@ -47,9 +47,7 @@
 
 ### Why?
 
--I released this because most of the people who originally had it are no longer active and being the first person to release a working bedaura would probably be nice for clout <br>
--I would like to use this client as an opportunity to recreate modules that people might see in private ones so everyone can use them too <br>
--I would also like to see how awful spawn fights are going to look like with everyone running around with bedaura <br>
+-idk i regret making this public
 
 ### Credits
 
